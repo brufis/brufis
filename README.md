@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-<img src="https://c.tenor.com/cl-TKSMLPTIAAAAM/i-love-corn-corn.gif" width="100" height="150">
+<img src="https://c.tenor.com/g3y2q5VQxvAAAAAC/cat-computer.gif" width="200" height="200">
 
 ### Languages
 </div>
